@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- SORA Placeholder Favicon -->
+  <!-- To replace: Overwrite /public/favicon.svg or update <link rel="icon"> in index.html -->
+  <rect width="64" height="64" rx="16" fill="#1A1A1A"/>
+  <!-- Bowl icon -->
+  <path d="M12 28 C12 44 20 52 32 52 C44 52 52 44 52 28 Z" fill="#F9F7F2"/>
+  <rect x="22" y="52" width="20" height="4" rx="2" fill="#F9F7F2"/>
+  <!-- Chopsticks -->
+  <line x1="10" y1="18" x2="48" y2="24" stroke="#D97706" stroke-width="3" stroke-linecap="round"/>
+  <line x1="14" y1="14" x2="52" y2="21" stroke="#D97706" stroke-width="3" stroke-linecap="round"/>
+  <!-- Steam -->
+  <path d="M24 22 Q26 18 24 14" stroke="#F9F7F2" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.7"/>
+  <path d="M32 20 Q34 16 32 12" stroke="#F9F7F2" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.7"/>
+  <path d="M40 22 Q42 18 40 14" stroke="#F9F7F2" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.7"/>
+</svg>
