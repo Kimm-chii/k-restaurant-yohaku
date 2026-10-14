@@ -12,7 +12,7 @@ export default function App() {
   const [noticeVisible, setNoticeVisible] = useState(true);
 
   return (
-    <div className="min-h-screen bg-[#F9F7F2] text-[#1A1A1A] font-sans selection:bg-[#1A1A1A] selection:text-[#F9F7F2] antialiased">
+    <div className="min-h-[calc(var(--sh,1vh)*100)] bg-[#F9F7F2] text-[#1A1A1A] font-sans selection:bg-[#1A1A1A] selection:text-[#F9F7F2] antialiased">
       {/* Top Disclaimer Notice Banner */}
       <NoticeBanner visible={noticeVisible} onClose={() => setNoticeVisible(false)} />
 
